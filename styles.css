@@ -71,3 +71,7 @@ Base body {
         border-color: var(--blue-light);
     }
 }
+
+.card-zentorex .title {
+  margin-bottom: 0.8rem !important;
+}
